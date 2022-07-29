@@ -11,9 +11,14 @@ information on the items to the player.  That is where this Advanced DND Invento
 
 The tool will allow each player to keep track of their inventory in real time, providing more detail than the system 
 currently available to them.  It will include both pre-populated data for already available items and the ability to 
-add homebrew style items to the inventory.  
-
-My inspiration is the current inventory system available with [roll20.net](http://www.roll20.net), and what I consider
-to be improvements on it.
+add homebrew style items to the inventory. My inspiration is the current inventory system available with [roll20.net](http://www.roll20.net), 
+and what I consider to be improvements on it.
 ---
 ## Functionality
+- A clickable inventory for the specific player
+- The inventory will include:
+-- The name of the item
+-- A description of the item
+-- A picture of the item 
+-- How many of the item the player is carrying
+-- An area for the player to makes notes about the item.
