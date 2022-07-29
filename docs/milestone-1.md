@@ -9,6 +9,13 @@ I run a weekly Dungeons and Dragons campaign for my family.  We a scattered acro
 the game.  Everyone is constantly having to look up items in their inventory, and the system provided does not give much
 information on the items to the player.  That is where this Advanced DND Inventory Assistance tool will come into play.
 
+The inventory will be split up by type of item:
+- Weapons
+- Armor
+- Consumables
+- Money
+- Misc.
+
 ---
 ## Functionality
 - A clickable inventory for the specific player
