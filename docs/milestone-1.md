@@ -13,8 +13,8 @@ information on the items to the player.  That is where this Advanced DND Invento
 ## Functionality
 - A clickable inventory for the specific player
 - The inventory will include:
--- The name of the item
--- A description of the item
--- A picture of the item 
--- How many of the item the player is carrying
--- An area for the player to makes notes about the item.
+	The name of the item
+	A description of the item
+	A picture of the item 
+	How many of the item the player is carrying
+	An area for the player to makes notes about the item.
