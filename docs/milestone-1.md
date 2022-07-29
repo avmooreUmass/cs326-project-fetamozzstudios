@@ -24,4 +24,9 @@ The inventory will be split up by type of item:
 		- A description of the item
 		- A picture of the item 
 		- How many of the item the player is carrying
+			- This will be editable by the player.
 		- An area for the player to makes notes about the item.
+- The ability for a player to add new items to the inventory
+- The ability for a player to remove items from the inventory
+- An ability to transfer items to another players inventory
+- The ability to accept items transfered from other players.
