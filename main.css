@@ -45,6 +45,12 @@
     font-weight: bold;
     border: 1px solid black;
 }
+
+.inventoryTableNum{
+    font-weight: bold;
+    text-align: right;
+    border: 1px solid black;
+}
 .loginInterface
 {
     text-align: center;
