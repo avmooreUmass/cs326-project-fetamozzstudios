@@ -1,0 +1,17 @@
+#userLogin{
+    margin: auto;
+    margin-bottom: 3em;
+}
+
+#inventoryContainer {
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    display: grid;
+    margin-bottom: 3em;
+}
+
+.loginInterface
+{
+    display: flex;
+}
